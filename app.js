@@ -15,12 +15,12 @@ import {
 
 // Firebase конфигурация
 const firebaseConfig = {
-    apiKey: "AIzaSyCXKnUFIopjVHSVTEhho6SucMuXxAVTzmc",
-    authDomain: "dress-market-c1763.firebaseapp.com",
-    projectId: "dress-market-c1763",
-    storageBucket: "dress-market-c1763.firebasestorage.app",
-    messagingSenderId: "97431193655",
-    appId: "1:97431193655:web:51831834404416f674217b2"
+    apiKey: "AIzaSyCo7fdpg39a4a4yl3sG6e30jAGxIrA7M8",
+    authDomain: "vkseishop.firebaseapp.com",
+    projectId: "vkseishop",
+    storageBucket: "vkseishop.firebasestorage.app",
+    messagingSenderId: "920882217983",
+    appId: "1:920882217983:web:c78ad6ccc325dd6a899dca"
 };
 
 // Проверка конфигурации
